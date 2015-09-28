@@ -1,0 +1,3 @@
+SampleID	Rep	HeightAu	Pppm
+blank	1	80.14347076	0.03647453
+blank	2	-172.8262177	0.026913308
